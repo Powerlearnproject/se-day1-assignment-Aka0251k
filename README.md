@@ -4,8 +4,6 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Question 1: What is Software Engineering and Its Importance in the Technology Industry?
-
 Software Engineering is the systematic application of engineering principles to software development, ensuring reliability, efficiency, and scalability. 
 
 Its significance in the technology industry includes:
@@ -15,14 +13,14 @@ Scalability: Supports the growth and evolution of systems.
 Cost Efficiency: Minimizes costly errors and rework.
 Innovation: Drives advancements and improvements in technology.
 
-Question 2: Key Milestones in the Evolution of Software Engineering
+
 Important milestones in software engineering's development include:
 
 1. Structured Programming (1960s): Introduced methods to enhance code readability and maintainability.
 2. Object-Oriented Programming (1970s-1980s): Improved code reusability through objects and classes.
 3. Agile Manifesto (2001): Advocated iterative development and flexibility to accommodate changing requirements.
 
-Question 3: Phases of the Software Development Life Cycle (SDLC)
+
 
 The SDLC consists of:
 
@@ -33,7 +31,6 @@ The SDLC consists of:
 5. Deployment: Releasing the software to users.
 6. Maintenance: Ongoing updates and enhancements.
 
-Question 4: Comparison of Waterfall and Agile Methodologies
 
 Waterfall:
 Sequential: Follows a linear approach.
@@ -45,7 +42,7 @@ Iterative: Uses cycles or sprints for incremental development.
 High Flexibility: Adapts to changing requirements.
 Example: Ideal for projects needing frequent updates and adaptability.
 
-Question 5: Roles and Responsibilities in a Software Engineering Team
+
 
 Software Developer:
 Role: Develops and maintains the software.
@@ -59,7 +56,7 @@ Project Manager:
 Role: Oversees project execution.
 Responsibilities: Manages planning, coordination, and risk.
 
-Question 6: Importance of IDEs and VCS in Software Development
+
 
 IDEs:
 Importance: Provide tools for coding, debugging, and testing.
@@ -69,7 +66,7 @@ VCS:
 Importance: Manages code versions and facilitates collaboration.
 Example: Git - Tracks changes and supports collaboration.
 
-Question 7: Common Challenges Faced by Software Engineers and Strategies to Overcome Them
+
 
 Challenges include:
 
@@ -82,7 +79,7 @@ Clear Documentation: Maintain detailed documentation of requirements.
 Automated Testing: Use automated tests for early issue detection.
 Effective Time Management: Prioritize tasks and use agile practices to manage deadlines.
 
-Question 8: Types of Testing and Their Importance in Software Quality Assurance
+
 
 Unit Testing:
 Description: Tests individual components.
